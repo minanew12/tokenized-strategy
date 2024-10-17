@@ -13,7 +13,6 @@ A Strategy contract can become a fully ERC-4626 compliant vault by inheriting th
 
 [BaseStrategy](https://github.com/yearn/tokenized-strategy/blob/master/src/BaseStrategy.sol) - Abstract contract to inherit that communicates with the `TokenizedStrategy`.
 
-Full tech spech can be found [here](https://github.com/yearn/tokenized-strategy/blob/master/SPECIFICATION.md)
 
 ## Installation and Setup
 
